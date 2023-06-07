@@ -1,7 +1,6 @@
 {
   "name": "portafolio",
   "private": true,
-  "homepage": "https://gaeliam100.github.io/portafolioG/build",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

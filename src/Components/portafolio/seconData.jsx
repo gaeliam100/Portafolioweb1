@@ -11,7 +11,7 @@ const seconData = [
     title: "Página tributo",
     category: "Desarrollo web",
     information:"Aprendí sobre HTML, CSS y Javascript  creando una página web en tributo a uno de mis videojuegos favoritos.",
-    evidencia:"",
+    evidencia:"https://gportaf.github.io/silenthilTributePage/Index.html",
     imagenes:[""]
   },
   {
@@ -20,7 +20,7 @@ const seconData = [
     title: "EasybooK",
     category: "MVC",
     information:"Aprendí como interactua el backend con el front end usando un patron de diseño en MVC,actualizaciones de estado y métodos para controlar las acciones,también implementé un chat en tiempo real con SignalR, aqui es donde adqurí conocimientos muy solidos de la programación ",
-    evidencia:"",
+    evidencia:"https://gaeliam10.bsite.net/",
     imagenes:[""]
   },
   {

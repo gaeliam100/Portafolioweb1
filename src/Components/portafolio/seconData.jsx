@@ -38,8 +38,8 @@ const seconData = [
     image: Work4,
     title: "Pension Alimenticia",
     category: "Desarrollo web",
-    information:"de este aproyecto reafirme el conocimiento de mi curso de freecodecamp, creando una pagina para unos abogados en derecho familiiar,aprendí como es que funcionan los dominios y como hacer para colocar uno a tu web. Sitio: ",
-    evidencia:"https://pensionalimenticia.org",
+    information:"de este aproyecto reafirme el conocimiento de mi curso de freecodecamp, creando una pagina para unos abogados en derecho familiiar,aprendí como es que funcionan los dominios y como hacer para colocar uno a tu web. Numero de teléfono: +52 5513934202  Sitio: ",
+    evidencia:"https://pensionalimenticia.org ",
     imagenes:[""]
   },
   ,

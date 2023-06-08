@@ -4,11 +4,9 @@ import Work3 from '../../assets/Captura de pantalla 2023-05-30 a la(s) 13.50.32.
 import Work4 from '../../assets/mas claro.png'
 import Work5 from '../../assets/loginphp.png'
 import Work6 from '../../assets/todolist.png'
-import video1 from '../../assets/Proyecto1/video.mp4'
 import first from '../../assets/Proyecto1/First.png'
 import segunda from '../../assets/Proyecto1/segunda.png'
 import tercera from '../../assets/Proyecto1/tercera.png'
-import P1 from '../../assets/Proyecto2/useApi.mp4'
 import P2 from '../../assets/Proyecto2/bootstrapRegister.png'
 import P3 from '../../assets/Proyecto2/bootstrapRegister2.png'
 import P4 from '../../assets/Proyecto2/loginbootandnav.png'
@@ -28,7 +26,7 @@ const seconData = [
     category: "Desarrollo web",
     information:"Aprendí sobre HTML, CSS y Javascript  creando una página web en tributo a uno de mis videojuegos favoritos.",
     evidencia:"",
-    imagenes:[video1,first,segunda,tercera]
+    imagenes:[first,segunda,tercera]
   },
   {
     id: 2,
@@ -66,7 +64,7 @@ const seconData = [
     category: "laravel",
     information:"Me aventuré en el mundo de PHP y conocí laravel, cree un login con las herramientas que nos proporciona laravel para hacer las cosas más fáciles,utilicé composer y npm para instalar lo necesario, e implemente un registro de usuarios conectado a una base de datos mysql la cual estaba hecha con migraciones,aprendí a usa xammp y como configurar las rutas post get delete y update en esta tecnología",
     evidencia:"",
-    imagenes:[P1,P2,P3,P4]
+    imagenes:[P2,P3,P4]
   },
   ,
   {

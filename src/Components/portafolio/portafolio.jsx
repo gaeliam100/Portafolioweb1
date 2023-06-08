@@ -24,7 +24,7 @@ const Portafolio=()=>{
                 </div>
                 <div className="work-container grid">
                 {items.map((element)=>{
-                    const{id,image,title,category,information}=element;
+                    const{id,image,title,category,information,evidencia,imagenes}=element;
                     return(
                         <div className="work-card" key={id}>
                             <div className="work-thumbnail">
@@ -34,7 +34,7 @@ const Portafolio=()=>{
 
                             <div className="work-category">{category}</div>
                             <h3 className="work-title">{title}</h3>
-                            <ModalComponent estilo="work-button" informacion={information} titulo={title}>
+                            <ModalComponent estilo="work-button" informacion={information} titulo={title} evidence={evidencia} source={imagenes}>
                             </ModalComponent>
                         </div>
                     )

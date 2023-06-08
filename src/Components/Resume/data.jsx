@@ -5,7 +5,7 @@ const Data = [
       icon: "icon-graduation",
       year: "2023 - present",
       title: "Ingenieria en Informática",
-      desc: "Lorem ipsum dolor sit amet quo ei simul congue exerci     ad nec admodum perfecto.",
+      desc: "Actualmente curso la carrera de Ingeniería en Informatica y gradualmente podre adqurir mayor conocimiento",
     },
     {
       id: 2,
@@ -13,7 +13,7 @@ const Data = [
       icon: "HML responsive design",
       year: "2022",
       title: "FreeCodecamp Certification",
-      desc: "Lorem ipsum dolor sit amet quo ei simul congue exerci     ad nec admodum perfecto.",
+      desc: "Antes de entrar a la escuela tome un curso de diseño responsivo en la plataforma FreeCodeCamp y recibí una certificación",
     },
     {
       id: 3,
@@ -21,7 +21,7 @@ const Data = [
       icon: "icon-graduation",
       year: "2019 - 2022",
       title: "Bachillerato Técnico en Informatica",
-      desc: "Lorem ipsum dolor sit amet quo ei simul congue exerci     ad nec admodum perfecto.",
+      desc: "Cursé la carrera de técnico en Informática en el CECYT 13, aquí obtuve conocimiento en el área.",
     },
     {
       id: 4,
